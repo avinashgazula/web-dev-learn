@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+h2 {
+    color: purple;
+}
+
+table {
+    margin: 0 auto;
+    width: 650px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blueviolet;
+}
+
+td {
+  border-top: 1px solid darkorchid;
+}
+
+html {
+    background-color: lightgray;
+}
+
+.theader {
+    background-color: pink;
+    color: blueviolet;
+}
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+}
